@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom right, blue, red );
+  color: white;
+}
+
+header {
+  font-size: large;
+  color: yellow;
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+article {
+  margin: 20px;
+}
+
+figure {
+  margin: 10px 0;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 8px;;
+}
+
+th {
+  background-color: grey;
+  color: white;
+}
+
+p {
+  text-align: justify;
+}
+
+#composants{
+  text-align: center;
+  font-size: xx-large;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: red;
+}
+
+img{
+  max-width: 600px;
+  max-height: 500px;
+  display: block;
+  margin: 0 auto
+}
+
+#tableau{
+  text-align: center;
+  font-size: xx-large;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: black;
+}
